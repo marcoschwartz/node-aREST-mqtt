@@ -87,7 +87,7 @@ function setup() {
   console.log('Mosca server is up and running');
 }
 
-var http_server = app.listen(3000, function () {
+var http_server = app.listen(3009, function () {
 
   console.log('Express server is up and running');
 
